@@ -1,0 +1,45 @@
+header {background-color:#c9356c;
+		margin: 0;
+		color:white;
+		padding:20px;}
+body {background-color:#ffcece;
+	  }
+footer {background-color:#f48db4;
+	    margin:0;
+		padding:20px;
+		text-align:center;
+		color:white;
+}
+h1 {text-align:center;
+}
+h2 {color:#ff347f;
+	font-style:italic;
+}
+nav {text-align:center;
+	color:white;
+}
+img {width: 300px;
+}
+li{font-weight: bold;
+	color:#680747; 
+}
+ol {text-align:center;
+}
+section{border-style:outset;
+		padding:30px;
+}
+table{border-style:dashed;
+	  border:2;
+	  text-align:center;
+}
+th{border-style:outset;
+	background-color:#f4aeba;
+}
+td{border-style:outset;
+}
+.sport {width:150px;
+}
+.tabella {font-weight:bold;
+		  color:white;
+}
+.obiettivi {font-family:verdana}
